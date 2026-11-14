@@ -1,0 +1,1 @@
+Ce dossier recevra le fichier assetlinks.json (association avec l'application Android).
